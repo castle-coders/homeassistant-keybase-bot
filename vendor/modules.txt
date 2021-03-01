@@ -1,0 +1,17 @@
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/gorilla/websocket v1.4.2
+github.com/gorilla/websocket
+# github.com/keybase/go-keybase-chat-bot v0.0.0-20200505163032-5cacf52379da
+github.com/keybase/go-keybase-chat-bot/kbchat
+github.com/keybase/go-keybase-chat-bot/kbchat/types/chat1
+github.com/keybase/go-keybase-chat-bot/kbchat/types/gregor1
+github.com/keybase/go-keybase-chat-bot/kbchat/types/keybase1
+github.com/keybase/go-keybase-chat-bot/kbchat/types/stellar1
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.5.1
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
